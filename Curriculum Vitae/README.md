@@ -45,7 +45,7 @@ Sweden, April 2014.
 - International Center for Theoretical Physics (ICTP), Trieste, Italy, March 1995. 
 - Department of Mathematics, Institute for Theoretical Physics and Mathematics, Iran, 1995–1998. 
 
- ## Talks:
+## Talks:
 - Chromatic Number Via Turan Number, IPM Combinatorics and Computing   Conference 2015, Institute for Research in 
 Fundamental Sciences (IPM), Tehran, Iran, April 29-30, 2015.
 - On the Altermatic Numbers of Graphs, Frontiers in Mathematical Sciences (3rd Conference), Institute for Research in 
