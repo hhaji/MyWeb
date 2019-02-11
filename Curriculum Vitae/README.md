@@ -17,18 +17,14 @@ Teaching courses in undergraduate and graduate level. Including: Fundamental of 
 Machine Learning, Discrete Mathematics, Graph Theory, Stochastic Processes, Differential Equation, Combinatorics, 
 Probabilistic Methods in Combinatorics, Algebraic Graph Theory, Problem Solving Through Problems, Linear Algebra, 
 General Mathematics (2002–present).
-
 - Technical University of Denmark, Lyngby, Denmark. <br>
 Department of Applied Mathematics & Computer Science: Postdoctoral Fellowship, (2013-2015).
-
 - National Sun Yat-sen University, Kaohsiung, Taiwan. <br>
 Department of Mathematics: Postdoctoral Fellowship(2000-2001).
-
 - Institute for Studies in Theoretical Physics and Mathematics, Tehran, Iran. <br>
 Department of Mathematics: Postdoctoral Fellowship(1999-2000).
 
 ## Work Experiences:
-
 - Teaching for the Training Sections of Iranian Team for International Mathematics Olympiad(IMO), (1997, 2000).
 - Organizing and Teaching the Training of the “Mathematics Competition for  Undergraduate University Students” in Sharif 
 University of Technology and Shahid Beheshti University. This Competition is Held Annually by the  Iranian Mathematical 
@@ -41,7 +37,6 @@ Society, and the Participants are the Distinguished Students from the Universiti
 - Manager of Group of Computer Science, Department of Mathematical Sciences,  Shahid Beheshti University, 2003–2007.
 
 ## Fellowships and Grants:
-
 - Program: Graphs, Hypergraphs, and Computing, Institut Mittag-Leffler, The Royal Swedish of Academy of Science, 
 Sweden, April 2014.
 - Sabbatical Leave, Zurcih University, Switzerland, 2007.
