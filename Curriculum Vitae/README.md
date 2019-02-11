@@ -1,6 +1,6 @@
 # Curriculum Vitae
 ## Research Interests:
-Data Science: Machine Learning: Design, build, deploy Machine Learning and Deep Learning applications to solve real-world 
+Data Science (Machine Learning): Design, build, deploy Machine Learning and Deep Learning applications to solve real-world 
 problems empirically
 
 ## Academic Background:
