@@ -5,7 +5,7 @@ problems empirically
 
 ## Academic Background:
 - Ph.D.  Sharif University of Technology, Tehran, Iran. <br>
-Doctor of Philosophy in Mathematics, June, 1999. <br>    
+Doctor of Philosophy in Mathematics, June, 1999. <br>
 Title of Thesis: A study of some properties of graphs using associated  Stanley-Reisner rings.Supervisor: Professor E.S. Mahmoodian.
 - B.S.   Sharif University of Technology, Tehran, Iran. <br>
 Bachelor of Science in Mathematics, June, 1994.
