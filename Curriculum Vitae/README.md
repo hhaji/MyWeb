@@ -77,8 +77,7 @@ September 27-30, 2005
 University, Ahvaz, Iran, Jan. 25-28, 2005.
 - On no-homomorphism conditions, Workshop of Combinatorics, Linear Algebra, and Graph Coloring, Institute for Studies in 
 Theoretical Physics and Mathematics, Tehran, Iran, Aug 9-14, 2003.
-- Sparse H-colorable graphs with large girth, International Congress of Mathematics (ICM 2002), Beijing, China, Aug. 20-28, 
-2002.
+- Sparse H-colorable graphs with large girth, International Congress of Mathematics (ICM 2002), Beijing, China, Aug. 20-28, 2002.
 - Chromatic Sum and Tabular Graphs (In Memorial of M.L. Mehrabadi), Workshop of Colorings and Homomorphisms, Simon Fraser 
 University, Vancouver, Canada, July 17-28, 2000.
 - Clique Polynomial, Workshop of Colorings and Homomorphisms, Simon Fraser University, Vancouver, Canada, July 17-28, 2000.
