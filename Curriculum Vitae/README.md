@@ -6,7 +6,7 @@ problems empirically
 ## Academic Background:
 - Ph.D.  [Sharif University of Technology](http://www.en.sharif.edu), Tehran, Iran. <br>
 Doctor of Philosophy in Mathematics, June, 1999. <br>
-Title of Thesis: A study of some properties of graphs using associated  Stanley-Reisner rings.Supervisor: Professor E.S. Mahmoodian.
+Title of Thesis: A study of some properties of graphs using associated  Stanley-Reisner rings.Supervisor: [Professor E.S. Mahmoodian](http://sina.sharif.edu/~emahmood/).
 - B.S.   [Sharif University of Technology](http://www.en.sharif.edu), Tehran, Iran. <br>
 Bachelor of Science in Mathematics, June, 1994.
 
@@ -22,7 +22,7 @@ Department of Applied Mathematics & Computer Science: [Postdoctoral Fellowship](
 - [National Sun Yat-sen University](http://www.nsysu.edu.tw), Kaohsiung, Taiwan. <br>
 Department of Mathematics: Postdoctoral Fellowship(2000-2001).
 - [Institute for Studies in Theoretical Physics and Mathematics](http://www.ipm.ac.ir), Tehran, Iran. <br>
-Department of Mathematics: [Postdoctoral Fellowship](\href{http://www.ipm.ac.ir/personalinfo.jsp?PeopleCode=IP9900195)(1999-2000).
+Department of Mathematics: [Postdoctoral Fellowship](http://www.ipm.ac.ir/personalinfo.jsp?PeopleCode=IP9900195)(1999-2000).
 
 ## Work Experiences:
 - Teaching for the Training Sections of Iranian Team for International Mathematics Olympiad(IMO), (1997, 2000).
