@@ -4,14 +4,14 @@ Data Science (Machine Learning): Design, build, deploy Machine Learning and Deep
 problems empirically
 
 ## Academic Background:
-- Ph.D.  Sharif University of Technology, Tehran, Iran. <br>
+- Ph.D.  [Sharif University of Technology](http://www.en.sharif.edu), Tehran, Iran. <br>
 Doctor of Philosophy in Mathematics, June, 1999. <br>
 Title of Thesis: A study of some properties of graphs using associated  Stanley-Reisner rings.Supervisor: Professor E.S. Mahmoodian.
-- B.S.   Sharif University of Technology, Tehran, Iran. <br>
+- B.S.   [Sharif University of Technology](http://www.en.sharif.edu), Tehran, Iran. <br>
 Bachelor of Science in Mathematics, June, 1994.
 
 ## Professional Experiences:
-- [Shahid Beheshti University(SBU)](http://www.sbu.ac.ir), Tehran, Iran. <br>
+- [Shahid Beheshti University(SBU)](http://en.sbu.ac.ir/), Tehran, Iran. <br>
 Department of Mathematical Sciences: [Professor](http://facultymembers.sbu.ac.ir/hhaji/) <br>
 Teaching courses in undergraduate and graduate level. Including: Fundamental of computer and programming with Python, 
 Machine Learning, Discrete Mathematics, Graph Theory, Stochastic Processes, Differential Equation, Combinatorics, 
