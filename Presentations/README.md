@@ -1,5 +1,4 @@
-# Presentation
-Presentations
+# Presentations
 Some conferences that I have attended in the past and my talks:
 
 - Chromatic Number Via Turan Number, IPM Combinatorics and Computing Conference 2015, Institute for Research in Fundamental Sciences (IPM), Tehran, Iran, April 29-30, 2015.
