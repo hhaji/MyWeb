@@ -11,18 +11,18 @@ Title of Thesis: A study of some properties of graphs using associated  Stanley-
 Bachelor of Science in Mathematics, June, 1994.
 
 ## Professional Experiences:
-- Shahid Beheshti University(SBU), Tehran, Iran. <br>
-Department of Mathematical Sciences: Professor <br>
+- [Shahid Beheshti University(SBU)](http://www.sbu.ac.ir), Tehran, Iran. <br>
+Department of Mathematical Sciences: [Professor](http://facultymembers.sbu.ac.ir/hhaji/) <br>
 Teaching courses in undergraduate and graduate level. Including: Fundamental of computer and programming with Python, 
 Machine Learning, Discrete Mathematics, Graph Theory, Stochastic Processes, Differential Equation, Combinatorics, 
 Probabilistic Methods in Combinatorics, Algebraic Graph Theory, Problem Solving Through Problems, Linear Algebra, 
 General Mathematics (2002–present).
-- Technical University of Denmark, Lyngby, Denmark. <br>
-Department of Applied Mathematics & Computer Science: Postdoctoral Fellowship, (2013-2015).
-- National Sun Yat-sen University, Kaohsiung, Taiwan. <br>
+- [Technical University of Denmark](http://www.dtu.dk), Lyngby, Denmark. <br>
+Department of Applied Mathematics & Computer Science: [Postdoctoral Fellowship](http://orbit.dtu.dk/en/persons/hossein-hajiabolhassan(6235f452-7084-451c-8523-8815606cb4ba).html), (2013-2015).
+- [National Sun Yat-sen University](http://www.nsysu.edu.tw), Kaohsiung, Taiwan. <br>
 Department of Mathematics: Postdoctoral Fellowship(2000-2001).
-- Institute for Studies in Theoretical Physics and Mathematics, Tehran, Iran. <br>
-Department of Mathematics: Postdoctoral Fellowship(1999-2000).
+- [Institute for Studies in Theoretical Physics and Mathematics](http://www.ipm.ac.ir), Tehran, Iran. <br>
+Department of Mathematics: [Postdoctoral Fellowship](\href{http://www.ipm.ac.ir/personalinfo.jsp?PeopleCode=IP9900195)(1999-2000).
 
 ## Work Experiences:
 - Teaching for the Training Sections of Iranian Team for International Mathematics Olympiad(IMO), (1997, 2000).
