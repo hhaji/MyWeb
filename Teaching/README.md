@@ -1,8 +1,8 @@
 # Teaching
 
-- [Applied Machine Learning](https://github.com/hhaji/Applied-Machine-Learning) (Spring 2019) <br>
+- [Applied Machine Learning](https://hhaji.github.io/Applied-Machine-Learning/) (Spring 2019) <br>
 Lecture: Saturday and Monday 08:00-09:30 AM
-- [Algorithms for Data Science](https://github.com/hhaji/Algorithms-For-Data-Science) (Fall 2018) <br>
+- [Algorithms for Data Science](https://hhaji.github.io/Algorithms-For-Data-Science/) (Fall 2018) <br>
 Lecture: Saturday and Monday 08:00-09:30 AM
 - [Cryptography](http://facultymembers.sbu.ac.ir/hhaji/cryptography-2018) (Spring 2018) <br>
 Lecture: Saturday and Monday 08:00-09:30 AM
