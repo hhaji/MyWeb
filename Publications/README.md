@@ -1,7 +1,7 @@
 # Publications
 
 ## Peer-Reviewed Articles in Journals:
-- [M. Alishahi](http://www.shahroodut.ac.ir/fa/as/?id=S411) and H. Hajiabolhassan, A generalization of Gale’s lemma, Journal of Graph Theory, 88 (2018), 337-346.
+- [M. Alishahi](http://www.shahroodut.ac.ir/fa/as/?id=S411) and H. Hajiabolhassan, A generalization of Gale’s lemma, Journal of Graph Theory, 88 (2018), 337-346. 
 - [M. Alishahi](http://www.shahroodut.ac.ir/fa/as/?id=S411) and H. Hajiabolhassan, Altermatic number of categorical product of graphs, Discrete Mathematics, 341 (2018), 1316-1324.
 - [M. Alishahi](http://www.shahroodut.ac.ir/fa/as/?id=S411) and H. Hajiabolhassan, Chromatic number of random Kneser hypergraphs, Journal of Combinatorial Theory, Series A, 154 (2018), 1-20.
 - [M. Alishahi](http://www.shahroodut.ac.ir/fa/as/?id=S411), H. Hajiabolhassan and [F. Meunier](http://cermics.enpc.fr/~meuniefr/), Strengthening topological colorful results for graphs, European Journal of Combinatorics,  64 (2017), 27-44.
