@@ -1,12 +1,12 @@
 # Graduate Students
 ## Supervision of Ph.D. Theses:
-Mohammad Mirzaee Shams Abad (September 2020), Hamid Kameli (September 2019), Hamidreza Daneshpajoh (February 2018), Mehdi Azadi Motlagh (September 2015), Saeed Shabani (August 2012), Shahzad Basiri (June 2012), Moharam Nejad Iradmusa (September 2010), Ali Taherkhani ( July 2010), and Meysam Alishahi (June 2010).
+Mohammad Mirzaee Shams Abad (September 2020), Hamid Kameli (January 2019), Hamidreza Daneshpajoh (February 2018), Mehdi Azadi Motlagh (September 2015), Saeed Shabani (August 2012), Shahzad Basiri (June 2012), Moharam Nejad Iradmusa (September 2010), Ali Taherkhani ( July 2010), and Meysam Alishahi (June 2010).
 
 ### Co-Supervision of Ph.D. Thesis:
 Farokhlagha Moazami Goodarzi (September 2012)
 
 ## Supervision of Master Theses (Data Science):
-S.H. Behbodi (2017), B. Zare (2018)
+B. Haji Molla Hoseyni (2020), A. Mohammad Oghli Reyhani (2020), Z. Alavi (2020), T. Jamali (2018), S.H. Behbodi (2017), B. Zare (2018)
 
 ## Supervision of Master Theses (Combinatorics & Cryptography):
 Salehe Fakhari (2016), Mohammad Ashenab (2013), Amin Fetrat (2013), Seyyedeh B. Amir Ahmadi (2013), Arash Shirani (2012), 
