@@ -1,7 +1,6 @@
 # Curriculum Vitae
 ## Research Interests:
-Data Science (Machine Learning): Design, build, deploy Machine Learning and Deep Learning applications to solve real-world 
-problems empirically
+Graph Neural Networks and Machine Learning: Design, build, and deploy graph neural networks to solve theoretical and real-world problems
 
 ## Academic Background:
 - Ph.D.  [Sharif University of Technology](http://www.en.sharif.edu), Tehran, Iran. <br>
