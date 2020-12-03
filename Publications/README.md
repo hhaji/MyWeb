@@ -1,7 +1,7 @@
 # Publications
 
 ## Peer-Reviewed Articles in Journals:
-- [M. Alishahi](http://www.shahroodut.ac.ir/fa/as/?id=S411) and H. Hajiabolhassan, On the chromatic number of matching Kneser graphs, Combinatorics, Probability and Computing (to appear).
+- [M. Alishahi](http://www.shahroodut.ac.ir/fa/as/?id=S411) and H. Hajiabolhassan, On the chromatic number of matching Kneser graphs, Combinatorics, Probability and Computing, 29 (2020), 1-21.  
 - [M. Alishahi](http://www.shahroodut.ac.ir/fa/as/?id=S411) and H. Hajiabolhassan, On chromatic number and minimum cut, Journal of Combinatorial Theory, Series B, 139 (2019), 27-46. 
 - [M. Alishahi](http://www.shahroodut.ac.ir/fa/as/?id=S411) and H. Hajiabolhassan, A generalization of Gale’s lemma, Journal of Graph Theory, 88 (2018), 337-346. 
 - [M. Alishahi](http://www.shahroodut.ac.ir/fa/as/?id=S411) and H. Hajiabolhassan, Altermatic number of categorical product of graphs, Discrete Mathematics, 341 (2018), 1316-1324.
