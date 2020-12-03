@@ -1,9 +1,6 @@
 # Graduate Students
-## Current Ph.D. Students:
-Hamid Kameli and Mohammad Mirzaee Shams Abad
-
 ## Supervision of Ph.D. Theses:
-Hamidreza Daneshpajoh (February 2018), Mehdi Azadi Motlagh (September 2015), Saeed Shabani (August 2012), Shahzad Basiri (June 2012), Moharam Nejad Iradmusa (September 2010), Ali Taherkhani ( July 2010), and Meysam Alishahi (June 2010).
+Mohammad Mirzaee Shams Abad (September 2020), Hamid Kameli (September 2019), Hamidreza Daneshpajoh (February 2018), Mehdi Azadi Motlagh (September 2015), Saeed Shabani (August 2012), Shahzad Basiri (June 2012), Moharam Nejad Iradmusa (September 2010), Ali Taherkhani ( July 2010), and Meysam Alishahi (June 2010).
 
 ### Co-Supervision of Ph.D. Thesis:
 Farokhlagha Moazami Goodarzi (September 2012)
