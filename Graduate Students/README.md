@@ -6,7 +6,7 @@ Mohammad Mirzaee Shams Abad (September 2020), Hamid Kameli (January 2019), Hami
 Farokhlagha Moazami Goodarzi (September 2012)
 
 ## Supervision of Master Theses (Data Science):
-B. Haji Molla Hoseyni (2020), A. Mohammad Oghli Reyhani (2020), Z. Alavi (2020), T. Jamali (2018), S.H. Behbodi (2017), B. Zare (2018)
+Behnaz Haji Molla Hoseyni (2020), Afsane Mohammad Oghli Reyhani (2020), Zohreh Alavi (2020), Tanaz Jamali (2018), Seyed  Hadi Behboodi (2017), Bahare Zare (2018)
 
 ## Supervision of Master Theses (Combinatorics & Cryptography):
 Salehe Fakhari (2016), Mohammad Ashenab (2013), Amin Fetrat (2013), Seyyedeh B. Amir Ahmadi (2013), Arash Shirani (2012), 
