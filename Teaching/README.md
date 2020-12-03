@@ -1,5 +1,11 @@
 # Teaching
 
+- [Applied Machine Learning](https://hhaji.github.io/Applied-Machine-Learning/) (Spring 2021) <br>
+Lecture: Saturday and Monday 10:30-12:00 
+- [Deep Learning](https://hhaji.github.io/Deep-Learning/) (Fall 2020) <br>
+Lecture: Saturday and Monday 10:30-12:00 
+- [Applied Machine Learning](https://hhaji.github.io/Applied-Machine-Learning/) (Spring 2020) <br>
+Lecture: Saturday and Monday 08:00-09:30 
 - [Deep Learning](https://hhaji.github.io/Deep-Learning/) (Fall 2019) <br>
 Lecture: Sunday and Tuesday 13:00-14:30 
 - [Applied Machine Learning](https://hhaji.github.io/Applied-Machine-Learning/) (Spring 2019) <br>
