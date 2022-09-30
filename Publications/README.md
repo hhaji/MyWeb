@@ -1,7 +1,6 @@
 # Publications
 ## Peer-Reviewed Articles in Data Science:
-- T. Michel, H. Hajiabolhassan, and [R. Ortner](https://ortner.unileoben.ac.at/), Regret Bounds for Satisficing in Multi-Armed Bandit Problems, 
-- EWRL2022 - European Workshops on Reinforcement Learning (to appear).
+- T. Michel, H. Hajiabolhassan, and [R. Ortner](https://ortner.unileoben.ac.at/), [Regret Bounds for Satisficing in Multi-Armed Bandit Problems](https://ewrl.files.wordpress.com/2022/09/satisficingbandits.pdf), EWRL2022 - [European Workshops on Reinforcement Learning](https://ewrl.wordpress.com/ewrl15-2022/).
 
 - H. Hajiabolhassan, [Z. Taheri](https://github.com/zahta), [Y. Yeganeh](https://github.com/YavarYeganeh), [A. Hojatneia](https://github.com/alihojatnia),  FunQG: Molecular Representation Learning Via Quotient
 Graphs [Preprint 2022](https://arxiv.org/abs/2207.08597). 
