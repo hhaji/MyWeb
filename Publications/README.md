@@ -3,7 +3,7 @@
 - T. Michel, H. Hajiabolhassan, and [R. Ortner](https://ortner.unileoben.ac.at/), Regret Bounds for Satisficing in Multi-Armed Bandit Problems, 
 - EWRL2022 - European Workshops on Reinforcement Learning (to appear).
 
-- H.H ajiabolhassan, [Z. Taheri](https://github.com/zahta), [Y. Yeganeh](https://github.com/YavarYeganeh), [A. Hojatneia](https://github.com/alihojatnia),  FunQG: Molecular Representation Learning Via Quotient
+- H. Hajiabolhassan, [Z. Taheri](https://github.com/zahta), [Y. Yeganeh](https://github.com/YavarYeganeh), [A. Hojatneia](https://github.com/alihojatnia),  FunQG: Molecular Representation Learning Via Quotient
 Graphs [Preprint 2022](https://arxiv.org/abs/2207.08597). 
 
 ## Peer-Reviewed Articles in Combinatorics:
