@@ -1,6 +1,11 @@
 # Publications
+## Peer-Reviewed Articles in Data Science:
+- T.~Michel, H.~Hajiabolhassan, and R.~Ortner, Regret Bounds for Satisficing in Multi-Armed Bandit Problems, EWRL2022 - European Workshops on Reinforcement Learning (to appear).
 
-## Peer-Reviewed Articles in Journals:
+- H.~Hajiabolhassan, Z. Taheri, Y. Yeganeh, A. Hojatneia,  FunQG: Molecular Representation Learning Via Quotient
+Graphs (Preprint 2022: \href{https://arxiv.org/abs/2207.08597}{{\color{indianred}Arxiv}}). 
+
+## Peer-Reviewed Articles in Combinatorics:
 - [M. Alishahi](http://www.shahroodut.ac.ir/fa/as/?id=S411) and H. Hajiabolhassan, On the chromatic number of matching Kneser graphs, Combinatorics, Probability and Computing, 29 (2020), 1-21.  
 - [M. Alishahi](http://www.shahroodut.ac.ir/fa/as/?id=S411) and H. Hajiabolhassan, On chromatic number and minimum cut, Journal of Combinatorial Theory, Series B, 139 (2019), 27-46. 
 - [M. Alishahi](http://www.shahroodut.ac.ir/fa/as/?id=S411) and H. Hajiabolhassan, A generalization of Gale’s lemma, Journal of Graph Theory, 88 (2018), 337-346. 
