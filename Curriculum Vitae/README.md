@@ -50,14 +50,25 @@ Sweden, April 2014.
 - Department of Mathematics, Institute for Theoretical Physics and Mathematics, Iran, 1995–1998. 
 
 ## Talks:
-- Chromatic Number Via Turan Number, IPM Combinatorics and Computing   Conference 2015, Institute for Research in 
-Fundamental Sciences (IPM), Tehran, Iran, April 29-30, 2015.
-- On the Altermatic Numbers of Graphs, Frontiers in Mathematical Sciences (3rd Conference), Institute for Research in 
-Fundamental Sciences (IPM), Tehran, Iran, 29 December 2014 – 1 January 2015
+### Invited Speaker in Data Science: 
+- Challenges in Data Science Education,  3rd Seminar on Statistics Education, Universirt of Birjand, Birjand, Iran, October 20-21, 2021. 
+- Introduction to Neural Networks,  Workshop on Data Science and Its Applications, 52nd Annual Iranian Mathematics Conference, Shahid Bahonar University of Kerman, Kerman, Iran, August 29, 2021. 
+
+### Invited Speaker in Combinatorics and General Subjects:
+- Chromatic Number, Tur\'an Number, and Minimum Cut,  International Conference on Graph Theory, Combinatorics and Applications, Zhejiang Normal University, Jinhua, China, October 28-31, 2016. 
+- On the quality of research papers in Iran, 47th Annual Iranian Mathematics Conference, Kharazmi University, Karaj, Iran, August 28-31, 2016.  
+- Chromatic number via Turan number, IPM Combinatorics and Computing Conference 2015, Institute for Research in Fundamental Sciences (IPM), Tehran, Iran, April 29-30, 2015.  
+- On the Altermatic number of graphs, Frontiers in Mathematical Sciences (3rd Conference), Institute for Research in Fundamental Sciences (IPM), Tehran, Iran, 29 December 2014 - 1 January 2015.
+- Graph homomorphisms through graph powers, International Conference on Recent Trends in Graph Theory and Combinatorics (A Satellite Conference of ICM 2010), Cochin, India, August 12-15,  2010.
+- Visual cryptography, 6th International ISC Conference on Information Security and Cryptology, Isfahan University, Isfahan, Iran, October 7-8, 2009.
+- On some application of algebraic topology in combinatorics, 35th Annual Iranian Mathematics Conferences, Chamran University, 
+Ahvaz, Iran, Jan. 25-28, 2005.
+
+### The other Talks
+- On Alternating Chromatic Number, Program: Graphs, Hypergraphs, and Computing, Institut Mittag-Leffler, The Royal Swedish of 
+Academy of Science, Sweden, April 15, 2014.  
 - Graph Colorings Via The Borsuk-Ulam Theorem, Mathematics Colloquium, Institute for Research in Fundamental Sciences (IPM), 
 Tehran, Iran, October 29, 2014. 
-- On Alternating Chromatic Number, Program: Graphs, Hypergraphs, and Computing, Institut Mittag-Leffler, The Royal Swedish of 
-Academy of Science, Sweden, April 15, 2014.
 - Visula Cryptography, The Weekly Seminar of Technical University of Denmark, Copenhagen, Denmark, October 23, 2013.
 - Graph homomorphisms through graph powers, Midsummer Combinatorial Workshop XIX,  Prague, Czech Republic, 
 July 29 – August 2, 2013.
@@ -70,15 +81,11 @@ Republic, November 23-27, 2009.
 University, Tehran, Iran, October 21, 2009.
 - Graph Colorings via the Borsuk-Ulam Theorem, Workshop On Topological Combinatorics, Shahid Beheshti University, Tehran, 
 Iran, October 21, 2009.
-- Visual Cryptography, 6th International ISC Conference on Information Security and Cryptology, Isfahan University, Isfahan, 
-Iran, October 7-8, 2009.
 - Graph Homomorphisms and Spectral Conditions, Weekly Seminars of Department of Computer Science, ETH, Zurich, Switzerland, 
 June 7, 2007.
 - Visual Cryptography, Weekly Seminars of Department of Mathematics, Zurich University, Zurich, Switzerland, April 11, 2007.
 - Graphs homomorphisms and spectral conditions, Workshop on Graphs, Morphisms and Applications, Barcelona, Spain, 
 September 27-30, 2005
-- On some application of algebraic topology in combinatorics, Annual Iranian Mathematics Conferences (35th), Chamran 
-University, Ahvaz, Iran, Jan. 25-28, 2005.
 - On no-homomorphism conditions, Workshop of Combinatorics, Linear Algebra, and Graph Coloring, Institute for Studies in 
 Theoretical Physics and Mathematics, Tehran, Iran, Aug 9-14, 2003.
 - Sparse H-colorable graphs with large girth, International Congress of Mathematics (ICM 2002), Beijing, China, Aug. 20-28, 2002.
