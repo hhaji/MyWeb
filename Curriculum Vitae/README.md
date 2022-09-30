@@ -1,7 +1,6 @@
 # Curriculum Vitae
 ## Research Interests:
-Graph Neural Networks and Machine Learning: Design, build, and deploy graph neural networks to solve theoretical and real-world problems
-
+Machine Learning (Reinforcement Learning and Graph Neural Networks): Design, build, and deploy machine learning algorithms to solve real-world and theoretical problems.   
 ## Academic Background:
 - Ph.D.  [Sharif University of Technology](http://www.en.sharif.edu), Tehran, Iran. <br>
 Doctor of Philosophy in Mathematics, June, 1999. <br>
