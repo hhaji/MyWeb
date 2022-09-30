@@ -58,5 +58,4 @@ Graphs [Preprint 2022](https://arxiv.org/abs/2207.08597).
 - H. Hajiabolhassan and M.L. Mehrabadi,  Commutative Graph Algebras, Proc. of 28 Annual Iranian  Mathematics Conference, Tabriz, 1997.
 
 ## Preprints:
-- [M. Alishahi](http://www.shahroodut.ac.ir/fa/as/?id=S411) and H. Hajiabolhassan, On the chromatic number of matching graphs, arXiv:1507.08456.
 - [M. Alishahi](http://www.shahroodut.ac.ir/fa/as/?id=S411) and H. Hajiabolhassan, On chromatic number and minimum cut, arXiv:1407.8035.
